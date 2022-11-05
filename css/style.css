@@ -60,7 +60,8 @@ header{
 
 }
 
-.col-left{
+.col-left,
+.col-right{
     width: 20%;
 }
 
@@ -70,9 +71,6 @@ header{
     margin-right: 1%;
 }
 
-.col-right{
-    width: 20%;
-}
 /*end col*/
 
 
